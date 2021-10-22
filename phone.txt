@@ -1,1 +1,3 @@
-phone.txt
+phone
+
+touch screen to the phone lets add cover to the phone 
